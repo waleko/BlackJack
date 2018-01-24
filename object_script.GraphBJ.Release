@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\bj.o
+./release\card.o
+./release\focusrect.o
+./release\smallbutton.o
+./release\myqgraphicsscene.o
+./release\about.o
+./release\bet.o
+./release\qrc_resource.o
+./release\moc_bj.o
+./release\moc_card.o
+./release\moc_myqgraphicsscene.o
+./release\moc_about.o
+./release\moc_bet.o
+);

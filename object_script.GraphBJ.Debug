@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\bj.o
+./debug\card.o
+./debug\focusrect.o
+./debug\smallbutton.o
+./debug\myqgraphicsscene.o
+./debug\about.o
+./debug\bet.o
+./debug\qrc_resource.o
+./debug\moc_bj.o
+./debug\moc_card.o
+./debug\moc_myqgraphicsscene.o
+./debug\moc_about.o
+./debug\moc_bet.o
+);
